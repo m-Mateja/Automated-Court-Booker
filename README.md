@@ -7,6 +7,6 @@ This script was created to automate the tennis court booking process. This is to
 3. Search for open time slot and select open time frame
 4. Fill in auxiliary player name and finish booking
 
-testing everything again
+testing everything again and again
 
 
